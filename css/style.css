@@ -99,11 +99,6 @@ img {
     grid-row: 2 / 3;
   }
 }
-@media only screen and (min-height: 730px) {
-  body {
-    margin-top: 25%;
-  }
-}
 @media only screen and (max-width: 730px) {
   #container {
     width: 80%;
